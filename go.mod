@@ -1,4 +1,4 @@
-module github.com/cwinters8/secrets
+module github.com/cwinters8/gosecrets
 
 go 1.24.2
 
